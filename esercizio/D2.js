@@ -25,7 +25,7 @@ Le variabili sono come delle scatole in cui possiamo inserire qualcosa. All'inte
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-var name = 'Lorenzo'
+let name = 'Lorenzo'
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -56,7 +56,7 @@ let x = 12
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-var name = 'Lo Presti'
+name = 'Lo Presti'
 const lastName = 'Lo Presti'
 //const lastName = 'qualcosa' sarà un errore, perchè non si può cambiare il valore di una costante. Per verificare basta scommentare la riga sotto.
 //const lastName = 'qualcosa' 
